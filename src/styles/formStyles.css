@@ -1,0 +1,50 @@
+.form {
+  background-color: #f4dbc2;
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 2.5rem;
+  text-align: left;
+  font-size: 15px;
+  font-family: Roboto;
+  border-style: none;
+  border-radius: 10px;
+}
+
+.form_fields {
+  font-weight: 300;
+}
+
+.textboxes {
+  width: 100%;
+  font-weight: 300;
+  color: #333;
+  text-align: justify;
+  line-height: 2;
+  padding-left: 10px;
+  border-radius: 5px;
+  border-width: 2px;
+  border-style: solid;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.btn-flat,
+.btn-flat.active {
+  font-weight: 500;
+  background-color: #0096ff;
+  color: #f4c2c2;
+}
+
+.btn-xxl {
+  padding: 1rem 1.5rem;
+  font-size: 1.5rem;
+  width: 100%;
+  border-style: solid;
+  border-radius: 8px;
+}
+
+.btn-xxl:hover {
+  background-color: #89cff0;
+  color: #f4dbc2;
+}
